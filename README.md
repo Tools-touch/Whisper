@@ -17,22 +17,22 @@ https://github.com/Tools-touch/Whisper
 - 工具：Solana CLI, @solana/web3.js
 
 🎬 Demo 演示
-- 🎥 视频演示：[https://youtube.com/xxx 或 https://bilibili.com/xxx](https://youtu.be/_nfwPKMySyM)
+- 🎥 视频演示：https://youtu.be/_nfwPKMySyM
 
 
 功能截图
 - 首页：匿名发送
 
-![alt text](./images/image.png)
+![alt text](https://github.com/Tools-touch/Whisper/blob/main/images/image.png)
 
 
 - 收件箱：钱包签名 + 本地解密
 
-![alt text](./images/image-1.png)
+![alt text](https://github.com/Tools-touch/Whisper/blob/main/images/image-1.png)
 
 - 身份与配置：创建 Profile / 查看已绑定 handle
 - 
-![alt text](./images/image-2.png)
+![alt text](https://github.com/Tools-touch/Whisper/blob/main/images/image-2.png)
 
 💡 核心功能
 - 匿名发送消息（无需连接钱包）
